@@ -5,7 +5,7 @@ This boilerplate includes everything used to start developing modifications for 
 After forking this template repository, renaming it and then cloning it locally on your machine (I recommend using [GitHub Desktop](https://desktop.github.com/) to do so, checking it out in the default location `~/Documents/GitHub/your-mod-repository-name`).
 1. Use the Stellaris launcher to create your local mod.
 2. Upload it to the workshop. This sets the workshop-id, and yes it will be empty on the workshop for now. If you do not want that, you will need to update the `descriptor.mod` file manually later on as uploading for the first time changes it.
-3. Copy the new mod folder to `./mod/` (you will work on your mod from here)
+3. Copy the new mod folder to `./mod/` (you will work on your mod from here). You can see `stellaris-mod-template/` as an example folder (you may delete or leave it).
 4. Work on your mod. You will probably use VSCode to do so, opening the root folder of the repository.
 5. Whenever you want to test your mod ingame or upload a new version to the workshop, execute either `copy-latest-to-local-mod.sh` or `overwrite-local-mod-with-latest.sh` using bash (e.g. [git bash](https://git-scm.com/downloads)). The second option overwrites any content that is only present there, so make sure you know what you're doing (e.g. you deleted a file that isn't necessary any more). Alternatively you can just copy the mod manually (tedious and unnecessary, the scripts work from anywhere). 
 6. Commit and push your changes if you're working alone. If you're part of a team of modders, make sure you adhere to their git workflow. This may necessitate doing so more often or entirely different steps than detailed here.
