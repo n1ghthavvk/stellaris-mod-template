@@ -11,6 +11,7 @@ Text that discusses pitfalls during development and possible future features.
 You may also add compatibility notes for other modders here.
 
 [h1]Obligatory Footnote[/h1]
+[url=https://github.com/n1ghthavvk/stellaris-mod-template][img]https://i.imgur.com/0nVeF3I.png[/img][/url]
 Looking for my other creations?
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1998204784][img]https://i.imgur.com/wJgHgx8.jpg[/img][/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1868834704][img]https://i.imgur.com/sbtUpRC.jpg[/img][/url]
