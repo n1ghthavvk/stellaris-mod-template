@@ -1,5 +1,5 @@
-# Example Change Notes for the steam workshop. 
-# It is recommended to use major mod version increases when removing features or adding a plethora of them, minor ones when updating to a new game version or doing small tweaks and patch version increases when changing things unrelated to the users experience.
+# Example Change Notes
+For the steam workshop change notes I recommended to use major mod version increases when removing features or adding a plethora of them, minor ones when updating to a new game version or doing small tweaks and patch version increases when changing things unrelated to the users experience.
 
 Version 2.2.0
 * Update to game version 2.8.0
