@@ -16,8 +16,7 @@ This boilerplate includes everything used to start developing modifications for 
 12. Update your description, if necessary.
 13. Repeat from Step 6. whenever you want to continue modding.
 
-## Tools 
-Tools you need.
+## Tools
 
 ### git
 Self-explanatory. You will use [git](https://git-scm.com/downloads) to clone the repository.
